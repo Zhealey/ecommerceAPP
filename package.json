@@ -1,0 +1,22 @@
+{
+  "name": "ecommerceapp",
+  "version": "1.0.0",
+  "description": "MERN shopping ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aghilashub2020/ecommerceAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aghilashub2020/ecommerceAPP/issues"
+  },
+  "homepage": "https://github.com/Aghilashub2020/ecommerceAPP#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
