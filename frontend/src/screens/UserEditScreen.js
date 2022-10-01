@@ -101,4 +101,4 @@ const UserEditScreen = ({ match, history }) => {
   );
 };
 
-export default UserEditScree;
+export default UserEditScreen;
